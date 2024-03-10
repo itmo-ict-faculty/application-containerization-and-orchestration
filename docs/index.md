@@ -15,8 +15,8 @@
 
 Более подробно можно узнать в следующих разделах:
 
-- [Лекции](https://itmo-ict-faculty.github.io/application-containerization-and-orchestration/education/lecture)
-- [Лабораторные работы](https://itmo-ict-faculty.github.io/application-containerization-and-orchestration/education/labs)
+- [Лекции](https://itmo-ict-faculty.github.io/application-containerization-and-orchestration/education/lecture.md)
+- [Практические работы](https://itmo-ict-faculty.github.io/application-containerization-and-orchestration/education/practice.md)
 - [Дополнительные материалы](https://itmo-ict-faculty.github.io/application-containerization-and-orchestration/education/additional_materials.md)
 
 ## Методы оценивания
