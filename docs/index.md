@@ -15,9 +15,9 @@
 
 Более подробно можно узнать в следующих разделах:
 
-- [Лекции](https://itmo-ict-faculty.github.io/application-containerization-and-orchestration/education/lecture.md)
-- [Практические работы](https://itmo-ict-faculty.github.io/application-containerization-and-orchestration/education/practice.md)
-- [Дополнительные материалы](https://itmo-ict-faculty.github.io/application-containerization-and-orchestration/education/additional_materials.md)
+- [Лекции](https://itmo-ict-faculty.github.io/application-containerization-and-orchestration/education/lecture)
+- [Практические работы](https://itmo-ict-faculty.github.io/application-containerization-and-orchestration/education/practice)
+- [Дополнительные материалы](https://itmo-ict-faculty.github.io/application-containerization-and-orchestration/education/additional_materials)
 
 ## Методы оценивания
 - Для получения оценки 3 необходимо выполнить не менее 60% заданий во всех курсах. Среднее значение должно быть между 60 и 75 процентами. 
