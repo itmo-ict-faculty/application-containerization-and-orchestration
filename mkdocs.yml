@@ -29,7 +29,6 @@ plugins:
 nav:
   - Introduction: "index.md"
   - Education:
-    - Labs: "education/labs.md"
     - Lecture: "education/lecture.md"
     - Practices: "education/practice.md"
     - Additional materials: "education/additional_materials.md"
